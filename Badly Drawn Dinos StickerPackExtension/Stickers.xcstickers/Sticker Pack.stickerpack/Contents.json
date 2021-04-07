@@ -11,9 +11,6 @@
       "filename" : "dino-love.sticker"
     },
     {
-      "filename" : "dino-processing.sticker"
-    },
-    {
       "filename" : "dino-table-eat.sticker"
     },
     {
@@ -27,6 +24,12 @@
     },
     {
       "filename" : "waggle_dino.sticker"
+    },
+    {
+      "filename" : "pop-cat.sticker"
+    },
+    {
+      "filename" : "dino-processing.sticker"
     }
   ]
 }
